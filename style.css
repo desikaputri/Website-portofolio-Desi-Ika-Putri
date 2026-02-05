@@ -245,7 +245,7 @@ section{
     justify-content: center;
     align-items: center;
     background-color: var(--main-color);
-    height: 200px;
+    height: 250px;
     border-radius: 3rem;
     cursor: pointer;
     border: 5px solid transparent;
@@ -516,4 +516,5 @@ footer ul li{
         flex-direction: column;
         margin: 2rem 0;
     }
+
 }
