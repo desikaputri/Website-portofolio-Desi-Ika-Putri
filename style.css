@@ -263,7 +263,7 @@ section{
     text-align: center;
     justify-content: center;
     align-items: center;
-    padding: 5rem;
+    padding: 2rem;
 }
 .services-info h4{
     font-size: 2rem;
@@ -518,4 +518,5 @@ footer ul li{
     }
 
 }
+
 
