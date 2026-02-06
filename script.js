@@ -7,7 +7,7 @@ menuIcon.onclick = () => {
 }
 
 var typed= new Typed(".text", {
-    strings:["Frontend Developer" , "UI/UX Design", "Web Developer", "System Analyst", "Data Analyst", "Quality Assurance", "Machine Learning"],
+    strings:["Database Administrator", "System Analyst", "Data Analyst", "Frontend Developer" , "UI/UX Design", "Web Developer", "Quality Assurance", "Data Scientist"],
     typeSpeed:100,
     backSpeed:100,
     backDelay:1000,
@@ -63,4 +63,5 @@ function sendMail(){
 
     emailjs.send("service_k0nzyzk","template_idvxlh6",parms).then(alert("Email Sent!"))
 }
+
 
